@@ -19,15 +19,15 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></br>
   
-<div>
+<div align="center" valign="top"><br>
 <a href="https://instagram.com/kamilly_alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@kamilly7840@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kamilly-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/kamilly-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   ![Snake animation](https://github.com/kamilly-alves/kamilly-alves/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  <div align="center">
-   ![Snake animation](https://github.com/kamilly-alves/kamilly-alves/blob/output/github-contribution-grid-snake.svg)
-    </div>
+
   
  
  
