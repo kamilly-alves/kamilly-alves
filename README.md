@@ -4,7 +4,7 @@
 - 🔭 Atualmente procuro emprego como front-end
 - 🌱 Tenho Estudado HTML,CSS, Javascrip e Angular
 
-<div>
+<div align="center" >
 <a href="https://beacons.ai/kamilly-alves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamilly-alves&show_icons-true&theme=dracula&include_all_comits-true&count_private-true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilly-alves&layout=compact&langs_count=168&theme=dracula"/>
